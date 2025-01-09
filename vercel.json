@@ -39,6 +39,10 @@
         "DB_PORT": "42096",
         "DB_DATABASE": "karyawan",
         "DB_USERNAME": "root",
-        "DB_PASSWORD": "VWrywVOIikPOjzsVqGrdRCFAxjYCSjRc"
+        "DB_PASSWORD": "VWrywVOIikPOjzsVqGrdRCFAxjYCSjRc",
+
+        "APP_NAME": "Laravel",
+        "APP_KEY": "base64:mFShDn9JnFcNJzs4yQauuuP2fzTcFxPtiH5LOVT6sW4=",
+        "APP_TIMEZONE": "UTC"
     }
 }
