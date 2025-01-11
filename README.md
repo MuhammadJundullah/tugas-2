@@ -1,22 +1,22 @@
 # Screenshots
 
-## 1. Delete Employees
-![Delete Employees](ss/delete-employees.png)
-
-## 2. Get All Divisions
-![Get All Divisions](ss/get-all-division.png)
-
-## 3. Get All Employees
-![Get All Employees](ss/get-all-employees.png)
-
-## 4. Login
+## Tugas 1 - Membuat Api Login
 ![Login](ss/login.png)
 
-## 5. Logout
-![Logout](ss/logout.png)
+## Tugas 2 - Membuat Api Get All Data Divisi
+![Get All Divisions](ss/get-all-division.png)
 
-## 6. Post Employees
+## Tugas 3 - Membuat Api Get All Data Karyawan
+![Get All Employees](ss/get-all-employees.png)
+
+## Tugas 4 - Membuat Api Create Data Karyawan
 ![Post Employees](ss/post-employees.png)
 
-## 7. Put Employees
+## Tugas 5 - Membuat Api Update Data Karyawan
 ![Put Employees](ss/put-employees.png)
+
+## Tugas 6 - Membuat Api Delete Data Karyawan
+![Delete Employees](ss/delete-employees.png)
+
+## Tugas 7 - Membuat Api Logout
+![Logout](ss/logout.png)
