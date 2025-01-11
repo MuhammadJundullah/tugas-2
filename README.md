@@ -1,6 +1,6 @@
 # Screenshots
 
-Mohon maaf bapak/ibu recruter PT Aksamedia Mulia Digital, karena ada permasalahan saat deploy di vercel, mohon izin untuk menampilkan tampilan request dan response api nya disini 🙏😁
+Mohon maaf bapak/ibu tim recruiter PT Aksamedia Mulia Digital, karena ada permasalahan saat deploy di vercel, mohon izin untuk menampilkan tampilan request dan response api nya disini 🙏😁
 
 Berikut adalah tampilan untuk tugas 2 untuk Full Stack - Web Developer Intern Test :
 
