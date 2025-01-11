@@ -1,5 +1,9 @@
 # Screenshots
 
+Mohon maaf bapak/ibu recruter PT Aksamedia Mulia Digital, karena ada permasalahan saat deploy di vercel, mohon izin untuk menampilkan tampilan websitenya disini 🙏
+
+Berikut adalah tampilan untuk tugas 2 untuk Full Stack - Web Developer Intern Test :
+
 ## Tugas 1 - Membuat Api Login
 ![Login](ss/login.png)
 
